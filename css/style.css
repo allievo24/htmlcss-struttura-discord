@@ -34,14 +34,20 @@ header{
      border: dotted;
  }
         
- .logo,.login  {
-    border:  dotted black;
+ 
     
-    width: 20%;
+  
     
-}
+
 .login{
     text-align: right;
+    padding: 10px;
+    background-color: #5CB7F2;
+    border-radius:40px;
+    
+  
+
+  
 }
  
 
