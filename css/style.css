@@ -68,12 +68,13 @@ header{
     
 }
 
-
+/* eliminazione della row-reverse e 
+invertendo right è left nela sezione3 del html */
 .sezione2,.sezione4{
     max-width: 100%;
     display: flex;
     justify-content: center;
-    flex-direction: row-reverse;
+  /*  flex-direction: row-reverse;*/
     margin-bottom:5% ; 
 }
 
